@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 边框模板 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 背景 -->
+    <solid android:color="@android:color/darker_gray" />
+    <!-- 圆角 -->
+    <corners
+        android:bottomLeftRadius="2dp"
+        android:bottomRightRadius="2dp"
+        android:topLeftRadius="2dp"
+        android:topRightRadius="2dp" />
+    <!-- 边框粗细 -->
+    <stroke  />
+
+    <!-- 边距 -->
+    <padding />
+
+</shape>
